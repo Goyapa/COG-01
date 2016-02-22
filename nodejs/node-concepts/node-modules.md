@@ -40,6 +40,8 @@ myModule.sayCOG(); // 'COG!'
 [JavaScript Modules: A Beginner’s Guide](https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.fb8nzyo9w)
 read "CommonJS and AMD" and have a look at "Native JS".
 
+[Creating Node.js modules](https://docs.npmjs.com/getting-started/creating-node-modules)
+
 [Node.js v4.2.6 Documentation](https://nodejs.org/dist/latest-v4.x/docs/api/) all about the Node Modules
 
 
