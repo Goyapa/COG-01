@@ -45,6 +45,12 @@ $ npm search comment json     |   search for comment-json
 
 [AN INTERACTIVE GUIDE](http://browsenpm.org/package.json)
 
+[Creating Node.js modules](https://docs.npmjs.com/getting-started/creating-node-modules)
+
+[Using a package.json](https://docs.npmjs.com/getting-started/using-a-package.json)
+
+[Specifics of npm's package.json handling](https://docs.npmjs.com/files/package.json)
+
 Command                     |   Explanation
 ----------------------------|   ----------------
 $ npm init                  | create a package.json
@@ -54,19 +60,16 @@ npm install [packageName] --save-dev  | saves package version into package.json 
 npm install bar --save-dev  | "devDependencies": {"bar": "~1.6.3"}
 
 
-* npm install will install both "dependencies" and "devDependencies"
+* npm install   will install both "dependencies" and "devDependencies"
 
-* npm install --production will only install "dependencies"
+* npm install --production  will only install "dependencies"
 
-* npm install --dev will only install "devDependencies"
+* npm install --dev   will only install "devDependencies"
 
 
-[How to set NODE_ENV to production/development](http://stackoverflow.com/questions/9198310/how-to-set-node-env-to-production-development-in-os-x)
+[How to set NODE_ENV to production/development](http://stackoverflow.com/questions/9198310/how-to-set-node-env-to-production-development-in-os-x): Have also a look at the posts of "walkerbe" and "Lukas Liesis"
 
-Have also a look at the posts of "walkerbe" and "Lukas Liesis"
+[EnvironmentVariables](https://help.ubuntu.com/community/EnvironmentVariables)
 
-[Creating Node.js modules](https://docs.npmjs.com/getting-started/creating-node-modules)
+[Setting environment variables in node.js](http://stackoverflow.com/questions/22312671/node-js-setting-environment-variables/28821696#28821696)
 
-[Using a package.json](https://docs.npmjs.com/getting-started/using-a-package.json)
-
-[Specifics of npm's package.json handling](https://docs.npmjs.com/files/package.json)
