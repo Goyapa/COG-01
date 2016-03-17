@@ -141,7 +141,7 @@ then convert it to structurally valid HTML.
 
 [Markdown Tutorial](http://markdowntutorial.com/)
 
-[10 minute interactive tutorial](http://commonmark.org/help/tutorial/)
+[10 Minute Interactive Tutorial](http://commonmark.org/help/tutorial/)
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
