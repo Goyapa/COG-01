@@ -111,6 +111,8 @@ The documentation (in German) is so useful for beginners and pros and makes it e
 
 [JavaScript The Right Way](http://jstherightway.org/#the-good-parts)
 
+#### Douglas Crockford: "The JavaScript Programming Language" [a list of Videos](https://www.youtube.com/watch?v=v2ifWcnQs6M&list=PL62E185BB8577B63D)
+
 [Babel](https://babeljs.io/): ES2015, ES6
 
 ## JSLint/JSHint
@@ -138,6 +140,8 @@ easy-to-write plain text format,
 then convert it to structurally valid HTML.
 
 [Markdown Tutorial](http://markdowntutorial.com/)
+
+[10 minute interactive tutorial](http://commonmark.org/help/tutorial/)
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
