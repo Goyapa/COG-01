@@ -89,9 +89,13 @@ The documentation (in German) is so useful for beginners and pros and makes it e
  
 [Learning Git:](https://github.com/jlord/git-it) A workshopper for learning Git and GitHub.
  
-[Git at Uberspace](https://uberspace.de/) (German only)
+[Learn Git Branching](http://pcottle.github.io/learnGitBranching/) is a remarkable visual tutorial.
 
 [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+
+[6 Simple Power Tools for Better Git Use](http://qualitycoding.org/git-power-tools/)
+
+[Git at Uberspace](https://uberspace.de/) (German only)
 
 ### Hosting project sources
 [GitHub](https://github.com/ ), Git projects hosting with free public projects.
