@@ -93,7 +93,17 @@ The documentation (in German) is so useful for beginners and pros and makes it e
 
 [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 
+[Ungit at GitHub: ](https://github.com/FredrikNoren/ungit)The easiest way to use git. On any platform. Anywhere.
+
+[Ungit: ](http://t3n.de/news/ungit-schicker-web-client-macht-488802/)Kinderleichtes Web-Interface für Git, t3n
+
+[Ungit: ](http://blog.goguardian.com/nerds/ungit-the-easiest-way-to-use-git)The Easiest Way to Use Git
+
 [6 Simple Power Tools for Better Git Use](http://qualitycoding.org/git-power-tools/)
+
+[Gerrit Code Review](https://www.gerritcodereview.com/)
+
+[Gerrit plugin for Ungit](https://github.com/FredrikNoren/ungit-gerrit)
 
 [Git at Uberspace](https://uberspace.de/) (German only)
 
