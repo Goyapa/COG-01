@@ -95,6 +95,8 @@ The documentation (in German) is so useful for beginners and pros and makes it e
 
 [Ungit at GitHub: ](https://github.com/FredrikNoren/ungit)The easiest way to use git. On any platform. Anywhere.
 
+[HOW TO RUN UNGIT ON CLOUD9](https://root-project.org/2014/07/09/work/ungit-on-cloud9/)
+
 [Ungit: ](http://t3n.de/news/ungit-schicker-web-client-macht-488802/)Kinderleichtes Web-Interface für Git, t3n
 
 [Ungit: ](http://blog.goguardian.com/nerds/ungit-the-easiest-way-to-use-git)The Easiest Way to Use Git
