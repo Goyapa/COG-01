@@ -182,6 +182,8 @@ then convert it to structurally valid HTML.
 
 [What is Meteor.js?](http://goo.gl/oDboFU)
 
+[A Study Plan For Meteor 1.3](https://www.discovermeteor.com/blog/study-plan-meteor-1-3/)
+
 [Building a Meteor App at Cloud9 IDE](https://docs.c9.io/docs/meteor) and than
 [create an Meteor APP](https://www.meteor.com/tutorials/blaze/creating-an-app).
 
